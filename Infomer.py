@@ -1,5 +1,6 @@
 #Install libraries torch, pandas, numpy, sklearn, matplotlib using the command
-#pip install  torch,pandas,numpy,sklearn,matplotlib
+#pip install torch pandas yfinance scikit-learn matplotlib
+
 import torch
 import torch.nn as nn
 import pandas as pd
