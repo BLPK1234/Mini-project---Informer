@@ -1,5 +1,5 @@
 
-# Bitcoin Price Prediction using Informer and SAM-LSTM Models
+# Bitcoin Price Prediction using Informer - Transformer based model
 
 ## 📌 Overview
 
